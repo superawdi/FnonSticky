@@ -15,7 +15,7 @@ npm i fnonsticky
 > Add (css and js) to HTML
 
 ```html
-<link rel="stylesheet" href="dist/fnonsticky.css" />
+<link rel="stylesheet" href="fnonsticky.min.css" />
 
 <script src="dist/fnonsticky.js"></script>
 ```
