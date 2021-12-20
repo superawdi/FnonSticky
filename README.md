@@ -2,11 +2,13 @@
 
 Is a simple javascript file that creates a sticky note into a website similar to the windows sticky app.
 
+> Try me [DEMO](https://superawdi.github.io/FnonSticky/)
+
 ![Demo](/demo.gif)
 
 ## Installation :
 
-> [Use node package manager](https://www.npmjs.com/package/fnon) :
+> [Use node package manager](https://www.npmjs.com/package/fnonsticky) :
 
 ```bash
 npm i fnonsticky
